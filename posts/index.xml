@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Max Garin</title>
-        <link>http://maxgarin.com/</link>
-        <description>Max Garin</description>
+        <title>All Posts - Max Garin</title>
+        <link>http://maxgarin.com/posts/</link>
+        <description>All Posts | Max Garin</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>maxgarin@gmail.com (Max Garin)</managingEditor>
-            <webMaster>maxgarin@gmail.com (Max Garin)</webMaster><lastBuildDate>Tue, 28 Jul 2020 16:58:45 &#43;0000</lastBuildDate>
-            <atom:link href="http://maxgarin.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>maxgarin@gmail.com (Max Garin)</webMaster><lastBuildDate>Tue, 28 Jul 2020 16:58:45 &#43;0000</lastBuildDate><atom:link href="http://maxgarin.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
     <link>http://maxgarin.com/posts/first_post/</link>
     <pubDate>Tue, 28 Jul 2020 16:58:45 &#43;0000</pubDate>
